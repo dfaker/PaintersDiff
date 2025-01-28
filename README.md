@@ -20,5 +20,5 @@ Follow the projected guidance, and when you think you've made progress move your
 Tweak the excessive number of values and sliders to see results - most are experiments I've not found completely useless.
 
 Even medium lighting on the canvas is essential.
-
  
+Requires: skimage, scipy and cv2 not yet reeached stability to prune some of these dependencies out yet.

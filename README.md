@@ -21,4 +21,4 @@ Tweak the excessive number of values and sliders to see results - most are exper
 
 Even medium lighting on the canvas is essential.
  
-Requires: skimage, scipy and cv2 not yet reeached stability to prune some of these dependencies out yet.
+Requires: skimage, scipy and cv2 not yet reached stability to prune some of these dependencies out yet.
